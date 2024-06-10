@@ -1,0 +1,37 @@
+﻿@model WebFrontEnd.Models.Product
+
+<h2>Delete Product</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductsName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProductsName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductsPrices)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ProductsPrices)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.quantity)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.quantity)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

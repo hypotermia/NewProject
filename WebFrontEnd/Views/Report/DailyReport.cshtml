@@ -1,0 +1,24 @@
+﻿@model IEnumerable<WebFrontEnd.Models.DailyReport>
+
+<h2>DailyReport</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProductName</th>
+            <th>Total Income</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductsName</td>
+                <td>@item.TotalDaily</td>
+                
+
+            </tr>
+        }
+    </tbody>
+</table>
+

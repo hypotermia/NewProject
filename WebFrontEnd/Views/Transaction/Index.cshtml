@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebFrontEnd.Models.DetailTransaction>
+
+@{
+    ViewBag.Title = "Transaction Index";
+}
+
+<h2>Transaction Index</h2>
+
+<p>@TempData["Message"]</p>
+<p style="color: red;">@TempData["ErrorMessage"]</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction Id</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Total Per Transaction</th>
+            <th>Created Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+            <tr>
+                <td>@transaction.Id</td>
+                <td>@transaction.ProductsName</td>
+                <td>@transaction.Quantity</td>
+                <td>@transaction.TotalPerTrx</td>
+                <td>@transaction.CreatedDate</td>
+                <td>
+                    @Html.ActionLink("Details", "Details", new { uId = transaction.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { uId = transaction.Id }, new { onclick = "return confirm('Are you sure you want to delete this transaction?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Create New Transaction", "Create")
