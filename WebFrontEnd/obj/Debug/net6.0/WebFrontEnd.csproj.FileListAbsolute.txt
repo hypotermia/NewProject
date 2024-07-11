@@ -1,11 +1,3 @@
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.csproj.AssemblyReference.cache
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.AssemblyInfoInputs.cache
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.AssemblyInfo.cs
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.csproj.CoreCompileInputs.cache
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.MvcApplicationPartsAssemblyInfo.cache
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.RazorAssemblyInfo.cache
-E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.RazorAssemblyInfo.cs
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\appsettings.Development.json
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\appsettings.json
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\WebFrontEnd.staticwebassets.runtime.json
@@ -15,6 +7,15 @@ E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\WebFrontEnd.runtimecon
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\WebFrontEnd.dll
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\WebFrontEnd.pdb
 E:\LearnProject\MiniProjects\WebFrontEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.csproj.AssemblyReference.cache
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.AssemblyInfoInputs.cache
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.AssemblyInfo.cs
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.csproj.CoreCompileInputs.cache
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.RazorAssemblyInfo.cache
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.RazorAssemblyInfo.cs
+E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\WebFrontEnd.sourcelink.json
 E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\staticwebassets.build.json
 E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\staticwebassets.development.json
 E:\LearnProject\MiniProjects\WebFrontEnd\obj\Debug\net6.0\staticwebassets\msbuild.WebFrontEnd.Microsoft.AspNetCore.StaticWebAssets.props

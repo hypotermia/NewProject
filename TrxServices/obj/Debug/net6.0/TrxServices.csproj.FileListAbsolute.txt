@@ -1,11 +1,3 @@
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\appsettings.Development.json
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\appsettings.json
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\efpt.config.json
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\TrxServices.exe
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\TrxServices.deps.json
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\TrxServices.runtimeconfig.json
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\TrxServices.dll
-E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\TrxServices.pdb
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -27,6 +19,7 @@ E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Configuration.C
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Drawing.Common.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Security.Permissions.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\System.Windows.Extensions.dll
@@ -40,6 +33,7 @@ E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netco
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Cng.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\LearnProject\MiniProjects\TrxServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.csproj.AssemblyReference.cache
@@ -49,6 +43,7 @@ E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.AssemblyIn
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.csproj.CoreCompileInputs.cache
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.MvcApplicationPartsAssemblyInfo.cs
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.MvcApplicationPartsAssemblyInfo.cache
+E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.sourcelink.json
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets.build.json
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets.development.json
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets\msbuild.TrxServices.Microsoft.AspNetCore.StaticWebAssets.props
@@ -57,9 +52,6 @@ E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets\msbuil
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrxServices.props
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\staticwebassets.pack.json
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\scopedcss\bundle\TrxServices.styles.css
-E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.csproj.CopyComplete
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.dll
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\refint\TrxServices.dll
 E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.pdb
-E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\TrxServices.genruntimeconfig.cache
-E:\LearnProject\MiniProjects\TrxServices\obj\Debug\net6.0\ref\TrxServices.dll
